@@ -10,3 +10,14 @@ Key Highlights
 
 🚀 Continuous updates as I learn more
 
+Assignment 1
+
+    Task 1: Perform Basic Mathematical Operations
+    
+    Task 2: Create a Personalized Greeting
+  
+Here, I am describing Assignment 1, what I am doing.
+The details of both tasks can be found in the code file.
+Thanks!
+
+
