@@ -28,3 +28,13 @@ Assignment 2
 Here, I am describing Assignment 2, what I am doing.
 The details of both tasks can be found in the code file.
 Thanks!
+
+Assignment 3
+
+    Task 1: Calculate Factorial Using a Function
+    
+    Task 2: Using the Math Module for Calculations
+
+Here, I am describing Assignment 3, what I am doing.
+The details of both tasks can be found in the code file.
+Thanks!
