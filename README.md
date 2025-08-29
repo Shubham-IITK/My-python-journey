@@ -13,11 +13,16 @@ Key Highlights
 Assignment 1
 
     Task 1: Perform Basic Mathematical Operations
-    
     Task 2: Create a Personalized Greeting
   
 Here, I am describing Assignment 1, what I am doing.
 The details of both tasks can be found in the code file.
 Thanks!
 
+Assignment 2
+    Task 1: Check if a Number is Even or Odd
+    Task 2: Sum of Integers from 1 to 50 Using a Loop
 
+Here, I am describing Assignment 2, what I am doing.
+The details of both tasks can be found in the code file.
+Thanks!
